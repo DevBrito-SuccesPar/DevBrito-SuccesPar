@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  <a href="#">
+    <img
+      width="100%"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=1100&height=220&lines=DevBrito+%40+SuccesPar;Full+Stack+Developer"
+      alt="DevBrito @ SuccesPar"
+    />
+  </a>
+</div>
 
-<!--
-**DevBrito-SuccesPar/DevBrito-SuccesPar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+**Full Stack Developer** · SuccesPar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professional GitHub account dedicated to my work at [SuccesPar](https://succespar.com.br).
+
+I work on internal systems, APIs, automations, and web applications, mainly with **Python, Django, React, Next.js, and MySQL**.
+
+### What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,ts,js,react,nextjs,mysql,git,github,linux&perline=10" height="36" />
+</p>
+
+[Personal GitHub Here](https://github.com/Davi-Oliveira-Brito)
